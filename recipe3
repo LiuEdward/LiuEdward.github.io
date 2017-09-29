@@ -1,1 +1,81 @@
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: gold;
+}
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: limegreen;
+    color: white;
+}
+</style>
+</head>
+<!----------------------------------------------------title---------------------------------------------------------------->
+<div style="background-color:limegreen;height:77px;width:100%">
+	<font color="white"><center><h1><font size="10">Sushi Recipe</font></h1></center></font>
+<div>
+<!----------------------------------------------------links and sidebar----------------------------------------------->
+<div style="background-color:gold; height:830px; width:200px; float:left;">
+  <ul>
+  <li><a href="https://LiuEdward.github.io">Home</a></li>
+  <li><a href="https://LiuEdward.github.io/favoritebook.html">Favorite Book</a></li>
+  <li><a href="https://LiuEdward.github.io/moviereview.html">Movie Review</a></li>
+  <li><a href="https://LiuEdward.github.io/career.html">Future Career</a></li>
+  </ul>
+</div>
+<!------------------------------------------------------------------------ingredients----------->
+<p3>Japanese Mayonnaise</p3>
+<ul1><font size="4">
+<li>3 tbsp mayonnaise</li>
+<li>1 tbsp rice wine vinegar</li>
+<li>1 tsp soy sauce</li>
+</ul1></font>
+<p>Sushi</p>
+<ul2>
+<li>300g sushi rice</li>
+<li>100ml rice wine vinegar</li>
+<li>2 tbsp golden caster sugar</li>
+<li>25g nori sheets</li>
+<li>Filling (your choice)</li>
 
+</ul2>
+<!-----------------------------------------------------------------instructions--------------------------------->
+<ol>
+<font size="4">
+<li>Pat out rice and lay a nori sheet on the sushi mat with the shiny side down. Pat handfuls of rice with vinegared water. Pat rice on top 1 cm thick with the edge furthest away from you clear.</li>
+<li>Spread Japanese Mayo down the rice</li>
+<li>Add the filling of ypur choice</li>
+<li>Roll the mat, apply light preasure when rolling.</li>
+<li>Wrap the sushi in plastic wrap and cut into pieces</li>
+
+
+
+
+
+
+
+</ol>
+</font>
+
+<!--------------------------------------------------------links to recipes---------------------------------------------->
+<center>
+<font size="5"
+<p>
+<a href="https://LiuEdward.github.io/favoritefood.html">Favorite Foods</a>
+</p> <p>
+<a href="https://LiuEdward.github.io/recipe1">Ramen Recipe</a>
+</p>
+<a href="https://LiuEdward.github.io/recipe2">Pizza Recipe</a>
+
+</font>
+
+</center>
