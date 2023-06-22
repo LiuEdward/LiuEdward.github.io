@@ -26,7 +26,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/zVZSz5J.gif") no-repeat;
+  background: url("https://i.imgur.com/Qcm6Du8.gif") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::after {
@@ -34,7 +34,7 @@
   right: 45%;
   width: 40px;
   height: 40px;
-  background: url("https://i.redd.it/mba7f5p5ytt41.png");
+  background: url("https://i.imgur.com/96nEw2b.png");
   background-size: 100%;
 }
 :root .layers-OrUESM::before {
@@ -43,7 +43,7 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/Qcm6Du8.gif") no-repeat;
+  background: url("https://i.imgur.com/zVZSz5J.gif") no-repeat;
   background-size: 100%;
 }
 :root .layers-OrUESM::after {
@@ -52,7 +52,7 @@
   width: 25px;
   height: 25px;
   background: url("https://dinopixel.com/preload/0223/High-quality-cheese.png") no-repeat;
-  background-size: 100%;
+  background-size: 400%;
 }
 :root .bg-1QIAus::after {
   top: 45px;
@@ -60,7 +60,7 @@
   width: 30px;
   height: 30px;
   background: url("https://i.imgur.com/Wr5RTk9.gif") no-repeat;
-  background-size: 100%;
+  background-size: 400%;
 }
 :root .bg-1QIAus::before {
   z-index: 2;
@@ -68,7 +68,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/OUjSwsC.png") no-repeat;
+  background: url("https://i.redd.it/mba7f5p5ytt41.png") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
